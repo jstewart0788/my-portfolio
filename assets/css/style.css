@@ -1,0 +1,27 @@
+img{
+	max-width: 400px;
+}
+
+.navbar-brand{
+	padding-top: 10px;
+	font-size: 30px;
+}
+
+
+/*sidebar*/
+
+.container{
+	padding-top: 100px;
+}
+
+.social {
+	width: 62px;
+	height: 62px;
+}
+
+.connectmenu{
+	background-color: #1c1e22;
+	text-align: center;
+	margin: 10px;
+	padding-bottom:  10px;
+}
